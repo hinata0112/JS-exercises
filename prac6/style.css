@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+.index {
+    text-align: center;
+}
+
+.div_1 {
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-top: 100px;
+}
+
+.div_1 p {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.div_1 input {
+    font-size: 20px;
+    margin-bottom: 40px;
+}

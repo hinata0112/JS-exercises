@@ -1,4 +1,4 @@
-`use sprict`
+"use strict";
 
 function btnClick() {
     let wordValue = document.getElementById(`word`).value;

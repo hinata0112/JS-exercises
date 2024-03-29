@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 55px;
+}
+
+.div_1 {
+    text-align: center;
+}
+
+.div_1 button {
+    margin-top: 30px;
+
+}
